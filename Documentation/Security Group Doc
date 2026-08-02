@@ -1,0 +1,37 @@
+# Domain Configuration
+
+## Domain Information
+
+**Domain Name:** NMG.com
+
+### Organizational Units (OUs) Created
+- Finance
+- IT
+- Operations
+- HR
+
+### Security Groups Created
+- IT-Users
+- Finance-Users
+- Operations-Users
+- HR-Users
+
+---
+
+## Purpose of Each Organizational Unit
+
+### Finance
+Manages and tracks the company's payroll, billing, and financial operations.
+
+### Human Resources (HR)
+Responsible for employee relations, recruiting, onboarding, and maintaining a safe and healthy workplace environment for all NMG employees.
+
+### Information Technology (IT)
+Maintains and configures NMG's computer systems, network infrastructure, and digital services.
+
+### Operations
+Responsible for overseeing the organization's daily business operations, leadership support, and operational coordination.
+
+---
+
+**Date Completed:** July 21, 2026

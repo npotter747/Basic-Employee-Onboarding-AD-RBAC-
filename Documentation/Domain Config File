@@ -1,4 +1,9 @@
-Domain Name: NMG
-Domain Controller name: NMG-DC01
-IP Address: 10.0.2.15
-Date Completed: July 19,2026
+# Domain Configuration
+
+## Domain Information
+
+- **Domain Name:** NMG.com
+- **Domain Controller:** NMG-DC01
+- **Static IP Address:** 10.0.2.15
+
+**Date Completed:** July 19, 2026

@@ -5,7 +5,7 @@
 **Ticket Number:** NMG-0047  
 **Affected User:** Jane Cooper (jcooper@NMG.com)  
 **Priority:** High  
-**Resolved By:** IT New Hire  
+**Resolved By:** Nicholas Potter
 **Date Resolved:** July 25, 2026
 
 ---
